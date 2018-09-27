@@ -20,8 +20,12 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(num) {
   var sentences = []
   var i = 0
-  do {
-    sentences.push("I love the Beatles!")
-    i ++
-  } (i < num)
+  if (num > 15) {
+    return "I love the Beatles!"
+  } else {
+    do {
+      sentences.push("I love the Beatles!")
+      i ++
+    } (i < 15)
+  }
 }
