@@ -28,4 +28,5 @@ function iLoveTheBeatles(num) {
       i ++
     } (i < 15)
   }
+  return sentences
 }
