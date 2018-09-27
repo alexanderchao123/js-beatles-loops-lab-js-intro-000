@@ -25,7 +25,7 @@ function iLoveTheBeatles(num) {
   } else {
     do {
       sentences.push("I love the Beatles!")
-      i ++
+      i += 1
     } (i < 15)
   }
   return sentences
