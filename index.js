@@ -21,6 +21,7 @@ function iLoveTheBeatles(num) {
   var sentences = []
   var i = 0
   do {
+    sentences.push("I love the Beatles!")
     i ++
   } (i < num)
 }
