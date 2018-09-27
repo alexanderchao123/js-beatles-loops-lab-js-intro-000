@@ -17,6 +17,6 @@ function johnLennonFacts(facts) {
   return ex_facts
 }
 
-function iLoveTheBeatles() {
-  
+function iLoveTheBeatles(num) {
+
 }
