@@ -19,7 +19,7 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(num) {
   var sentences = []
-  var i = 0
+  var i = num
   if (num > 15) {
     return "I love the Beatles!"
   } else {
